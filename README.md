@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arjun
-- 👀 I’m interested in learning new technology and implementing the same...
+- 👀 I’m interested in learning new technology and implementing the same.
 - 🌱 I’m currently learning angular, springboot and database essentials along with it...
 - ⚡ Fun fact: I love to play online multiplayer shooter and football.
 
