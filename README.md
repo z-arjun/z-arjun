@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arjun
 - 👀 I’m interested in learning new technology and implementing the same.
-- 🌱 I’m currently learning angular, springboot and database essentials along with it...
+- 🌱 I’m currently learning Angular 8, Springboot and Database essentials [MySQL] along with it...
 - ⚡ Fun fact: I love to play competitive online multiplayer shooter computer games and football.
 
 
